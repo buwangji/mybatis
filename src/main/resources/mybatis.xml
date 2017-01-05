@@ -5,7 +5,7 @@
 <configuration>
     <!--配置别名-->
     <typeAliases>
-        <typeAlias type="com.laowang.pojo.UserMapper" alias="UserMapper"/>
+        <typeAlias type="com.laowang.pojo.User" alias="User"/>
     </typeAliases>
 
 
