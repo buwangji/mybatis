@@ -24,6 +24,7 @@
     </environments>
     <mappers>
         <mapper resource="mapper/usermapper.xml"/>
+        <mapper class="com.laowang.mapper.AccountMapper"></mapper>
     </mappers>
 
 
